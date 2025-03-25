@@ -4,7 +4,8 @@ Changelog
 *unreleased*
 ~~~~~~~~~~~~
 
-No unreleased changes.
+* Changed project metadata to use SPDX license expression
+
 
 24.2 - 2024-11-08
 ~~~~~~~~~~~~~~~~~
